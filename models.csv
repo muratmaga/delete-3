@@ -3,3 +3,4 @@ sphere.ply,sphere ply,Aphonopelma chalcodes,UWBM 1,surface scan,,,PLY,3968,10251
 sphere.obj,sphere obj,Aphonopelma chalcodes,UWBM 2,surface scan,,,OBJ,3968,258418
 sphere.stl,sphere stl,Centruroides vittatus,TMM 9,surface scan,,,STL,3968,198484
 sphere.vtk,sphere vtk,,,surface scan,,,VTK,3968,177909
+sphere-42.vtk,sphere-42.vtk,,,,,,VTK,,88934

@@ -5,9 +5,9 @@ Throwaway test set made by the smoke test.
 - License: CC BY 4.0 (see `LICENSE.txt`)
 - Curated by [@muratmaga](https://github.com/muratmaga)
 - Created with [models.morphodepot.org](https://models.morphodepot.org), part of [MorphoDepot](https://morphodepot.org)
-- **Download all models:** [v1 (zip)](https://github.com/muratmaga/delete-3/archive/refs/tags/v1.zip)
+- **Download all models:** [v2 (zip)](https://github.com/muratmaga/delete-3/archive/refs/tags/v2.zip)
 
-## Models (4)
+## Models (5)
 
 ### Aphonopelma chalcodes (2)
 
@@ -22,8 +22,9 @@ Throwaway test set made by the smoke test.
 |---|---|---|---|---|---|
 | <img src="models/sphere.png" width="120"> | [sphere stl](models/sphere.stl) | TMM 9 | 3,968 | STL | surface scan |
 
-### Species not given (1)
+### Species not given (2)
 
 | | Model | Specimen | Triangles | Format | Source |
 |---|---|---|---|---|---|
 | <img src="models/sphere.png" width="120"> | [sphere vtk](models/sphere.vtk) |  | 3,968 | VTK | surface scan |
+|  | [sphere-42.vtk](models/sphere-42.vtk) |  |  | VTK |  |
